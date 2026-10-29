@@ -81,20 +81,6 @@ The analysis includes:
 
 **Important:** Classification accuracy measures prediction of relative production categories, not continuous production quantities. The regression results indicate that additional features and stronger validation are needed for reliable forecasting.
 
-## Repository Structure
-
-```text
-Indian-Crop-Production-Analysis/
-├── README.md
-├── Project2.py
-├── CropProductionAnalysis.pdf
-├── requirements.txt
-└── images/
-    ├── top_10_crops.png
-    ├── correlation_heatmap.png
-    ├── classification_comparison.png
-    └── actual_vs_predicted.png
-```
 
 ## Limitations and Future Improvements
 
