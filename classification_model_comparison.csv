@@ -1,0 +1,4 @@
+Model,Accuracy
+Decision Tree,0.75225
+KNN,0.71075
+SVM,0.54575
